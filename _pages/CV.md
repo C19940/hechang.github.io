@@ -6,5 +6,6 @@ author_profile: true
 ---
 
 Here is my CV.
-[Here is my CV. (PDF)](/files/CV.pdf)
+
+<a href="{{ '/files/CV.pdf' | relative_url }}" class="btn btn--primary" target="_blank">📄 Download CV (PDF)</a>
 
