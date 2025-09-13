@@ -13,17 +13,23 @@ Nan.
 
 ### Representative works
 
-[1] **Zor, S**. (2023). A neural network-based measurement of corporate environmental attention and its impact on green open innovation: Evidence from heavily polluting listed companies in China. *Journal of Cleaner Production*, *432*, 139815. [--PDF Subscription--](https://www.sciencedirect.com/science/article/abs/pii/S0959652623039732)
-
-[2] **Zor, S**. (2023). Conservation or revolution? The sustainable transition of textile and apparel firms under the environmental regulation: Evidence from China. *Journal of Cleaner Production*, 382, 135339. [--PDF Subscription--](https://www.sciencedirect.com/science/article/abs/pii/S0959652622049137)
-
-[3] Luo, K., & **Zor, S**. (2023). Angel or devil? a study of the threshold effect of patent strategy on the relationship between patent thicket and corporate market value. Technology Analysis & Strategic Management, 1-17.  [--PDF Subscription--](https://www.tandfonline.com/doi/abs/10.1080/09537325.2023.2209220)
-
-[4] Song, J., **Zor, S**., Chen, D., Yan, T., & Li, B. (2024). The effect of firm‐level economic policy uncertainty on labor share: Empirical evidence from China. *Bulletin of Economic Research*, 76(4), 976-993. [--PDF Subscription--](https://onlinelibrary.wiley.com/doi/abs/10.1111/boer.12462)
-
-[5] **Zor, S**. (2024). Transition in the mist: firm-level uncertainty perception and imitative innovation. *International Journal of Innovation Science*. [--PDF Subscription--](https://www.emerald.com/insight/content/doi/10.1108/IJIS-06-2023-0141/full/html)
-
-[6] **Zor, S**. (2025). Using pre-trained language model to assess environmental protection policy stability and its impact on green innovation: Evidence from listed companies in heavily polluting industries. *Journal of Cleaner Production*, 505, 145493.. [--PDF Subscription--](https://www.sciencedirect.com/science/article/abs/pii/S0959652625008431)
+Cai, H., Wang, Z., Ji, Y., & Xu, L. (2024). Digitalization and innovation: How does the digital economy drive technology transfer in China? Economic Modelling, 136, 106758. CABS 2*
+Cai, H., Wang, Z., Zhang, Z., & Xu, L. (2023). Does environmental regulation promote technology transfer? Evidence from a partially linear functional-coefficient panel model. Economic Modelling, 124, 106297. CABS 2*
+Cai, H., Wang, Z., Zhang, Z., & Xu, X. (2023). Carbon emission trading schemes induces technology transfer: Evidence from China. Energy Policy, 178, 113595. CABS 2*
+Xu, L., Cai, H., and Wang, Z. (2023) Can air pollution reduce technology transfer? Evidence from China’s prefecture-level cities, Science of The Total Environment, Volume 857, Part 3, 20 January 2023, 159510. https://doi.org/10.1016/j.scitotenv.2022.159510
+Feng, Z., Cai, H., Chen, Z., and Zhou, W. (2022) Influence of an interurban innovation net- work on the innovation capacity of China: A multiplex network perspective, Technological Forecasting and Social Change https://doi.org/10.1016/j.techfore.2022.121651 CABS 3*
+Cai, H., Wang, Z., and Wang, W. (2022) Spatiotemporal investigation and determinants of interprovincial innovation network from a multilayer network perspective, Technology Analysis and Strategic Management DOI: https://doi.org/10.1080/09537325.2022.2131514 CABS 2*
+Cai, H., Feng, C., Zhou, W., Chen, J., and Chen, Z. (2022) Understanding the spatial polarization pattern of technology transfer network in the Guangdong–Hong–Macao Greater Bay area, Growth and Change https://doi.org/10.1111/grow.12636 CABS 2*
+Cai, H., Wang, Z., and Zhu, Y. (2022) Understanding the structure and determinants of intercity carbon emissions association network in China. Journal of Cleaner Production, 352, June 131535. https://doi.org/10.1016/j.jclepro.2022.131535 CABS 2*
+Li, J., Cai, H., and Wang, Z. (2023) Impact of Industrial Synergy on the Efficiency of Innovation Resource Allocation: Evidence from Chinese Metropolitan Areas, Land, 12(1), 177. https://doi.org/10.3390/land12010177
+Feng, Z., Chen, Z., Cai, H., & Yang, Z. (2022). Evaluation of the Sustainable Development of the Social-Economic-Natural Compound Ecosystem in the Guangdong-Hong Kong-Macao Greater Bay Area Urban Agglomeration (China): Based on Complex Network Analysis. Frontiers in Environmental Science, 935.
+Feng, Z., Chen, Z., Cai, H., & Yang, Z. (2022). Evolution and influencing factors of the green development spatial association network in the Guangdong-Hong Kong-Macao Greater Bay Area. Technological and Economic Development of Economy, 28(3), 716-742.
+Wang, Y., Wang, Z., & Cai, H.. (2024). Cost-sharing incentive for collaborative innovation between main manufacturer-core supplier based on risk factors. RAIRO-Operations Research, 58(4), 2907-2925. CABS 1*
+Qiao, Y., Jian, L., & Cai, H.. (2024). A novel multi-attribute three-way decision model with three-parameter interval grey number decision-theoretic rough sets. Kybernetes. CABS 1*
+Yang Y., Wang Z., & Cai, H.. A dynamic game study of collaborative development of complex products considering cost sharing[J] S&T Management Research (Chinese Journal, China Social Sciences Citation Index). Forthcoming
+Cai, H., Zhai, Y., Chen, Y., Liu, F., and Wang, H. (2021) Numerical study on uniformity of temperature difference field in a spiral tube heat exchanger, Applied Thermal Engineering, 190, May 116798. https://doi.org/10.1016/j.applthermaleng.2021.116798
+Cai, H., Liu, F., Huang, J., Wu, M., Wang, H., and Xu, J. (2020) Effect of size distribution of bubble groups on average volumetric heat transfer coefficient in the process of direct contact boiling heat transfer, International Communications in Heat and Mass Transfer, 117, October, 104709
+Feng, Z., Cai, H., and Zhou, W. (2020) Structural Characteristics and Spatial Patterns of the Technology Transfer Network in the Guangdong–Hong Kong–Macao Greater Bay Area, Sustainability, 12(6) 2204. https://doi.org/10.3390/su12062204
 
 ### Other works
 
