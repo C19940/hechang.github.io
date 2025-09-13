@@ -5,6 +5,8 @@ permalink: /CV/
 author_profile: true
 ---
 
+[CV](/files/CV.pdf){:.btn .btn--primary}
+
 Some tweets I have posted on my Weixin Official Account (OneStata).
 
 <img src="../images/QRcode.png" alt="WeChat QR code" style="zoom:80%;" />
