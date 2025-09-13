@@ -6,6 +6,4 @@ author_profile: true
 ---
 
 Here is my CV.
-
-<a href="{{ '/files/CV.pdf' | relative_url }}" class="btn btn--primary" target="_blank">📄 Download CV (PDF)</a>
-
+<a href="https://c19940.github.io/hechang.github.io/files/CV.pdf" class="btn btn--primary" target="_blank">📄 Download CV (PDF)</a>
