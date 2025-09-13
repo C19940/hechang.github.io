@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "WeChat Tweet"
+title: "CV"
 permalink: /wechat/
 author_profile: true
 ---
