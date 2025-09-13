@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /wechat/
+permalink: /cv/
 author_profile: true
 ---
 
