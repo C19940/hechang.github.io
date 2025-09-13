@@ -6,5 +6,5 @@ author_profile: true
 ---
 
 Here is my CV.
-[Here is my CV. (PDF)](files/CV.pdf)
+[📄 Download my CV (PDF)](/files/CV.pdf)
 
