@@ -9,7 +9,7 @@ main:
   - title: "Bilibili Video"
     url: /bilibili/    
 
-  - title: "WeChat Tweet"
+  - title: "CV"
     url: /wechat/    
         
   - title: "Stata Package"
