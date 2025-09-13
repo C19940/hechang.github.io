@@ -6,5 +6,5 @@ author_profile: true
 ---
 
 Here is my CV.
-[CV](/files/CV.pdf){:.btn .btn--primary}
+[Here is my CV. (PDF)](files/CV.pdf)
 
